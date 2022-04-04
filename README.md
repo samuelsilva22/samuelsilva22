@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelsilva22
 - 👀 I’m interested in sports, music, movies and programming
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on small projects involving HTML, CSS e JS
 - 📫 How to reach me https://github.com/samuelsilva22 https://www.linkedin.com/in/samuelsilva1987/
 
